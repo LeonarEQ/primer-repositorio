@@ -2,3 +2,4 @@ amarillo
 rojo
 verdey
 lila
+azul
